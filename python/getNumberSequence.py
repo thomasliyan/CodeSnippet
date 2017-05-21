@@ -1,5 +1,8 @@
 #! /usr/bin/env python
 # -*- coding: utf-8 -*-
+# Author: thomasliyan
+# Email: lyhy7891@qq.com
+# 2017-05-21 20:00:09
 def generateSequence(eleSet,eleNum,limit , count ) :
     ''' make a sequence of number which is the sum of eleSet. eleNum stards for the count of the ele in eleSet . '''
     ''' limit : if get the limit then stop.'''
