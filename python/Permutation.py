@@ -1,6 +1,8 @@
 import os
 import os.path
-##
+# Author: thomasliyan
+# Email: lyhy7891@qq.com
+
 ## the implementation  of the algorithm  of Permutation  in  book  <<The Art Of Computer Programming >> by D.E.Knuth 
 class DicPermutation:
     def __init__(self):
